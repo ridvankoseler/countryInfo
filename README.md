@@ -1,4 +1,4 @@
-# Country Info [https://ridvankoseler.github.io/countryInfo/]
+# Country Info https://ridvankoseler.github.io/countryInfo/
 
 
 
